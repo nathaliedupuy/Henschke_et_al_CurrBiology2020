@@ -1,6 +1,8 @@
 # Henschke*, Dylda*, Katsanevaki*, Dupuy, Currie, Amvrosiadis, Pakan* and Rochefort*, Curr. Biology 2020
 ### *Reward association enhances stimulus-specific representation in primary visual cortex*
 
+https://doi.org/10.1016/j.cub.2020.03.018
+
 MATLAB code from the Pakan lab and Rochefort lab used for analysis in this paper.
 
 ## General notes
